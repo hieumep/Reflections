@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it show where the line codes are edits 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Sometime we try codes with new ideas but it's worst. And we can come back old version easily and not forget or confuse.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	Pros : Git, we can save anytime we want. We can control and handle what we done when we commits.And we can track history what we done in every commits easy and simplely. 
+			With google, it save work automatically to helping don't lost what we work if something happens suddenly with computer or network.
+	Cons : With Git, If computer losts power or crash maybe lost your work which isn't commit.
+		 : With google, It make long history and big daat if we work on this file long time. So, we can't control and tracking complexly.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git allow you open multiple files same times and you can commit same time. Some other version control like Google Docs, you just open one file one time, that's why you can commit multiple file same time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log --stat : to view stats what difference in once commit IDS
+    git diff First_commit_Id Second_commit_Id : see what changes between 2 commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It make me to try every new ideas easily and no risk . Because we can get back up easiy and unstandable.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try commit with my code.
