@@ -7,11 +7,14 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	We can use command : "git status"
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	We can try new features same time. They are maybe different features. We can make branchs with them. The branch help us to follow with each feature without affect with main branch.  
 
 How do the diagrams help you visualize the branch structure?
+	it help me to see my brach structure clearly and organized. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
